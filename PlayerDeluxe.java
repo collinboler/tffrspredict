@@ -39,8 +39,10 @@ public class PlayerDeluxe {
         List list2 = new List(eight, "800");
         List list3 = new List(steeple, "steeple");
 
+        List[] lists = {list1, list2, list3};
+
         Player player = new Player(input);
-        player.all(list1, list2, list3);
+        player.all(lists);
 
         System.out.println(player.name + "'s Best Event = " + player.bestEventName());
         System.out.println(player.bestEvent.event + " rank = " + player.bestRank());

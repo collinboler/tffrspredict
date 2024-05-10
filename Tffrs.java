@@ -62,7 +62,16 @@ public class Tffrs {
 
     public static void main(String[] args) {
        // read in names from single event
-        String input = args[0];
+        Scanner scanner = new Scanner(System.in);
+
+        // Prompt the user for the type of input they want to process
+        System.out.println();
+        System.out.println("This program considers 800, 1500, 5000, or steeple (no 10000 rn)");
+        System.out.println("Input 800, 1500, 5000, or steeple");
+        String input = scanner.nextLine();
+
+        scanner.close();
+
         String[] event = readFile(input + "east.txt");
         String[] list = playerRead(event, input);
 
