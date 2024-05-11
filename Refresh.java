@@ -8,6 +8,7 @@ public class Refresh {
         refreshed = NameExtract.extractFullNames(stringArray);
         clearFile(input + "east.txt");
         NameExtract.writeToFile(refreshed, input + "east.txt");
+        clearFile("raw.txt");
     }
 
 
