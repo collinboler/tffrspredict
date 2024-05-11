@@ -5,13 +5,14 @@
 - run Refresh.java and enter specific event when prompted
 
 # Running Predictions:
-- run Tffrs.java and enter specific event when prompted
+- run Analysis.java and enter specific event when prompted
+- results will appear in Results.txt and in the terminal
 
 # How it works:
 - Produces a new event leaderboard that excludes people who are ranked higher on
   another list.
 - When analyzing 5k, program ignores 10k entries. (to improve accuracy)
-- Will develop a better 5K 10K algorithm through more analyisis
+- Will develop a better 5K 10K algorithm through more analysis
 
 # Analysis
 performs the same as Tffrs but outputs the list of predicted scratches for each event alongside the predicted qualifying list.
