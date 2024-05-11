@@ -20,8 +20,7 @@ public class NameExtract {
     }
 
     // read array and create a String[] with extracted names
-
-        private static String[] extractFullNames (String[] entries){
+        public static String[] extractFullNames (String[] entries){
             if (entries == null) return new String[0]; // Handle null input gracefully
 
             String[] fullNames = new String[entries.length];
@@ -48,7 +47,7 @@ public class NameExtract {
 
 
         // write from array to file
-        private static void writeToFile (String[]entries, String filename) {
+        public static void writeToFile (String[]entries, String filename) {
             try (BufferedWriter writer = new BufferedWriter(new FileWriter(filename))) {
                 for (String line : entries) {
                     writer.write(line);

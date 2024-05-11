@@ -63,6 +63,12 @@ public class Tffrs {
     public static void main(String[] args) {
        // read in names from single event
         Scanner scanner = new Scanner(System.in);
+        System.out.println();
+        System.out.println("Welcome to tffrs predict!");
+
+
+
+//
 
         // Prompt the user for the type of input they want to process
         System.out.println();

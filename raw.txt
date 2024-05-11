@@ -1,95 +1,95 @@
 1	Mountain, Nathan	JR-3	Virginia	8:20.68	Virginia Challenge	Apr 19, 2024
 2	Abouzouhir, Abdelhakim	SR-4	Eastern Kentucky	8:25.37	2024 Bryan Clay Invitational	Apr 11, 2024
 3	Stokes, Parker	SR-4	Georgetown	8:26.61	Virginia Challenge	Apr 19, 2024
-4	Singleton, CJ	SO-2	Notre Dame	8:33.60	2024 Bryan Clay Invitational	Apr 11, 2024
-5	Sado, Yasin	SR-4	Virginia	8:34.08	Virginia Challenge	Apr 19, 2024
-6	Imroth, Kristian	JR-3	Eastern Kentucky	8:35.32	Penn Relays	Apr 25, 2024
-7	Gardner, Brett	SR-4	NC State	8:36.23	Penn Relays	Apr 25, 2024
+4	Sado, Yasin	SR-4	Virginia	8:30.78	ACC Outdoor Championships	May 9, 2024
+5	Gardner, Brett	SR-4	NC State	8:31.38	ACC Outdoor Championships	May 9, 2024
+6	Singleton, CJ	SO-2	Notre Dame	8:33.60	2024 Bryan Clay Invitational	Apr 11, 2024
+7	Imroth, Kristian	JR-3	Eastern Kentucky	8:35.32	Penn Relays	Apr 25, 2024
 8	Thygesen, Patrick	JR-3	Providence	8:37.32	Penn Relays	Apr 25, 2024
 9	Jarema, Caleb	SO-2	Michigan	8:37.84	Penn Relays	Apr 25, 2024
 10	Santos, Carlos	SR-4	Stony Brook	8:40.32	Penn Relays	Apr 25, 2024
 11	Kovacech, Martin	JR-3	Butler	8:41.05	2024 Bryan Clay Invitational	Apr 11, 2024
 12	Keeny, Samuel	SR-4	Navy	8:41.52	2024 Patriot League Outdoor Track and Field Championships	May 3, 2024
-13	Davis, Nathan	SO-2	Army West Point	8:43.57	2024 Patriot League Outdoor Track and Field Championships	May 3, 2024
-14	Herold, Peter	SR-4	Georgetown	8:43.59	Virginia Challenge	Apr 19, 2024
-15	Kovacs, Ferenc	FR-1	Harvard	8:43.98	Penn Relays	Apr 25, 2024
-16	Keehan, Michael	SR-4	Duke	8:44.39	Wake Forest Invitational	Apr 19, 2024
+13	Keehan, Michael	SR-4	Duke	8:43.21	ACC Outdoor Championships	May 9, 2024
+14	Davis, Nathan	SO-2	Army West Point	8:43.57	2024 Patriot League Outdoor Track and Field Championships	May 3, 2024
+15	Herold, Peter	SR-4	Georgetown	8:43.59	Virginia Challenge	Apr 19, 2024
+16	Kovacs, Ferenc	FR-1	Harvard	8:43.98	Penn Relays	Apr 25, 2024
 17	Shorten, Jackson	SO-2	Princeton	8:44.92	Virginia Challenge	Apr 19, 2024
 18	Korczynski, Alexander	SR-4	Northeastern	8:44.99	Raleigh Relays	Mar 28, 2024
 19	Pryor, Reed	JR-3	Harvard	8:45.15	Wake Forest Invitational	Apr 19, 2024
-20	Nolan, Andrew	JR-3	Michigan State	8:46.26	Virginia Challenge	Apr 19, 2024
-21	Miller, Jack	SR-4	Pittsburgh	8:46.44	Raleigh Relays	Mar 28, 2024
-22	Ponder, Cameron	SR-4	Furman	8:47.67	Payton Jordan Invitational	Apr 26, 2024
-23	Meyers, Jozef	FR-1	Michigan	8:47.73	Wake Forest Invitational	Apr 19, 2024
-24	Burian, Carson	JR-3	Alabama	8:48.28	Wake Forest Invitational	Apr 19, 2024
-25	Vanderkolk, Kevin	JR-3	Belmont	8:48.42	Outdoor Music City Challenge	Apr 26, 2024
-26	Fleming, Alec	SR-4	Virginia Tech	8:49.28	Wake Forest Invitational	Apr 19, 2024
-27	Atkeson, Winslow	JR-3	Yale	8:49.46	Raleigh Relays	Mar 28, 2024
-28	Gebhardt, Jake	SR-4	North Carolina	8:49.81	Raleigh Relays	Mar 28, 2024
-29	Cannizzaro, Carmelo	JR-3	Mid. Tenn. State	8:49.93	Raleigh Relays	Mar 28, 2024
-30	Williams, Caleb	JR-3	Purdue	8:49.99	114th Drake Relays	Apr 24, 2024
-31	Rymer, Declan	JR-3	Virginia Tech	8:50.42	Wake Forest Invitational	Apr 19, 2024
-32	Thornsberry, Keeton	JR-3	Eastern Kentucky	8:50.82	Wake Forest Invitational	Apr 19, 2024
-33	Seitzer, Tom	SR-4	Notre Dame	8:50.91	Raleigh Relays	Mar 28, 2024
+20	Seitzer, Tom	SR-4	Notre Dame	8:46.10	ACC Outdoor Championships	May 9, 2024
+21	Nolan, Andrew	JR-3	Michigan State	8:46.26	Virginia Challenge	Apr 19, 2024
+22	Miller, Jack	SR-4	Pittsburgh	8:46.44	Raleigh Relays	Mar 28, 2024
+23	Ponder, Cameron	SR-4	Furman	8:47.67	Payton Jordan Invitational	Apr 26, 2024
+24	Meyers, Jozef	FR-1	Michigan	8:47.73	Wake Forest Invitational	Apr 19, 2024
+25	Burian, Carson	JR-3	Alabama	8:48.28	Wake Forest Invitational	Apr 19, 2024
+26	Vanderkolk, Kevin	JR-3	Belmont	8:48.42	Outdoor Music City Challenge	Apr 26, 2024
+27	Rymer, Declan	JR-3	Virginia Tech	8:49.17	ACC Outdoor Championships	May 9, 2024
+28	Fleming, Alec	SR-4	Virginia Tech	8:49.28	Wake Forest Invitational	Apr 19, 2024
+29	Atkeson, Winslow	JR-3	Yale	8:49.46	Raleigh Relays	Mar 28, 2024
+30	Gebhardt, Jake	SR-4	North Carolina	8:49.81	Raleigh Relays	Mar 28, 2024
+31	Cannizzaro, Carmelo	JR-3	Mid. Tenn. State	8:49.93	Raleigh Relays	Mar 28, 2024
+32	Williams, Caleb	JR-3	Purdue	8:49.99	114th Drake Relays	Apr 24, 2024
+33	Thornsberry, Keeton	JR-3	Eastern Kentucky	8:50.82	Wake Forest Invitational	Apr 19, 2024
 34	Goecker, AJ	JR-3	Lipscomb	8:51.20	Outdoor Music City Challenge	Apr 26, 2024
 35	Young, Joseph	JR-3	UMass Lowell	8:51.45	2024 Bryan Clay Invitational	Apr 11, 2024
 36	White, Hunter	SR-4	Charlotte	8:51.50	Duke Invitational	Apr 11, 2024
 37	Amicon, Derek	JR-3	Cornell	8:51.51	Ivy League Heptagonal Outdoor Track & Field Championships	May 4, 2024
-38	Lange, Braden	SR-4	Charlotte	8:52.38	2024 Charlotte Invitational	Apr 26, 2024
-39	Carlton, Billy	FR-1	Georgia Tech	8:52.50	Penn Relays	Apr 25, 2024
-40	Haskett, Austin	SR-4	Indiana	8:52.69	2024 Bryan Clay Invitational	Apr 11, 2024
-41	Pritchett, Tyler	JR-3	Michigan State	8:52.76	Virginia Challenge	Apr 19, 2024
-42	Palermo, Dominic	SR-4	Wagner	8:52.81	Penn Relays	Apr 25, 2024
-43	Hogston, Gunner	SR-4	Charlotte	8:52.91	2024 Charlotte Invitational	Apr 26, 2024
-44	John, Wesley	SR-4	Georgia	8:53.52	Outdoor Music City Challenge	Apr 26, 2024
-45	Breiter, Grahm	JR-3	Davidson	8:53.74	Wake Forest Invitational	Apr 19, 2024
-46	Hudson, Bing	JR-3	Lipscomb	8:53.94	Outdoor Music City Challenge	Apr 26, 2024
-47	Watts, Jackson	JR-3	Kentucky	8:53.97	Stanford Invitational	Mar 29, 2024
-48	Sarney, Kyle	JR-3	Northeastern	8:54.10	Penn Relays	Apr 25, 2024
-49	Garcia- Palencia, Pedro	SR-4	Eastern Kentucky	8:54.20	Rick Erdmann Twilight	Apr 27, 2024
-50	Countiss, Benjamin	JR-3	Navy	8:54.31	2024 Patriot League Outdoor Track and Field Championships	May 3, 2024
-51	Higinbotham, John	JR-3	Georgia Tech	8:54.45	Georgia Tech Invitational	Apr 19, 2024
-52	Cahill, Will	JR-3	Tennessee	8:54.79	Wake Forest Invitational	Apr 19, 2024
-53	White, Gavin	JR-3	Columbia	8:54.81	Wake Forest Invitational	Apr 19, 2024
-54	Bogdan, Matthew	SO-2	NC State	8:55.23	Wake Forest Invitational	Apr 19, 2024
-55	Brady, Brett	SR-4	Tennessee	8:55.26	Wake Forest Invitational	Apr 19, 2024
-56	Tarosky, Jake	SR-4	High Point	8:56.85	Wake Forest Invitational	Apr 19, 2024
-57	Cawley, Kevin	SR-4	Connecticut	8:57.83	Raleigh Relays	Mar 28, 2024
-58	Walsh, Liam	SR-4	Memphis	8:58.21	Wash U Distance Carnival	Mar 29, 2024
-59	Shuman, Sam	JR-3	Tennessee-Martin	8:58.28	Outdoor Music City Challenge	Apr 26, 2024
-60	Brill, Zach	SO-2	Belmont	8:58.57	Outdoor Music City Challenge	Apr 26, 2024
-61	Chapman, Brody	FR-1	Tennessee	8:58.72 @	APP State Open	Apr 26, 2024
-62	Franjieh, Julian	FR-1	Syracuse	8:59.04	Raleigh Relays	Mar 28, 2024
-63	Ruth, Silas	SO-2	Penn	8:59.53	Penn Relays	Apr 25, 2024
-64	El Khattabi, Ilias	FR-1	North Florida	8:59.60	East Coast Relays	Apr 26, 2024
-65	O'Brien, Gavin	SO-2	North Florida	8:59.61	East Coast Relays	Apr 26, 2024
-66	Reimann, Joseph	SR-4	Navy	8:59.67	Penn Relays	Apr 25, 2024
-67	Spamer, Jack	SR-4	Michigan	9:00.11	Wake Forest Invitational	Apr 19, 2024
-68	Perry, Cole	SO-2	North Florida	9:00.51	East Coast Relays	Apr 26, 2024
-69	Wiley, Luke	FR-1	North Carolina	9:00.98	2024 Charlotte Invitational	Apr 26, 2024
-70	Stoots, Myles	SR-4	East Tenn. St.	9:01.10	Wake Forest Invitational	Apr 19, 2024
-71	Tostenson, Jantz	SR-4	Georgetown	9:01.42	Virginia Challenge	Apr 19, 2024
-72	Mason, Matt	SR-4	Boston University	9:01.97	2024 Patriot League Outdoor Track and Field Championships	May 3, 2024
-73	Moultrie, Samuel	SR-4	Navy	9:02.04	Virginia Challenge	Apr 19, 2024
-74	Boler, Brian	FR-1	Princeton	9:02.32	West Point Twilight 2024	May 9, 2024
-75	Saunders, Ronnie	SR-4	Marshall	9:02.41	Virginia Challenge	Apr 19, 2024
-76	Cionelo, Nehemiah	SR-4	Coastal Carolina	9:03.04	East Coast Relays	Apr 26, 2024
-77	Autry, Tristan	JR-3	Georgia Tech	9:03.13	Penn Relays	Apr 25, 2024
-78	Cannon, Austen	JR-3	Miami (Fla.)	9:03.22	East Coast Relays	Apr 26, 2024
-79	Pietrzak, Logan	SR-4	Indiana State	9:03.70	Gary Wieneke Memorial	Apr 13, 2024
-80	Dolan, Marty	SR-4	Binghamton	9:03.81	West Point Twilight 2024	May 9, 2024
-81	Hurst, Hudson	JR-3	Alabama	9:03.88	Wake Forest Invitational	Apr 19, 2024
-82	Mullen, Patrick	SR-4	Northeastern	9:04.05	Jay Carisella Coaches Invitational	Apr 27, 2024
-83	Livingston, Connor	JR-3	Princeton	9:04.20	Ivy League Heptagonal Outdoor Track & Field Championships	May 4, 2024
-84	Lepore, Christopher	SR-4	Connecticut	9:04.40	Penn Relays	Apr 25, 2024
-85	Hilmer, Daniel	SO-2	Bucknell	9:04.81	2024 Patriot League Outdoor Track and Field Championships	May 3, 2024
-86	Gallagher, Quinn	SR-4	Notre Dame	9:05.10	Penn Relays	Apr 25, 2024
-87	Norberg, Michael	JR-3	UMass Amherst	9:05.53	Atlantic 10 Outdoor Track & Field Championships	May 4, 2024
-88	Bell, Kiefer	SO-2	Purdue	9:05.71	Tom Jones Memorial Invitational	Apr 12, 2024
-89	Yingst, Brady	SO-2	Lipscomb	9:05.85	Outdoor Music City Challenge	Apr 26, 2024
+38	Yingst, Brady	SO-2	Lipscomb	8:52.34	ASUN Outdoor Track & Field Championships	May 9, 2024
+39	Lange, Braden	SR-4	Charlotte	8:52.38	2024 Charlotte Invitational	Apr 26, 2024
+40	Carlton, Billy	FR-1	Georgia Tech	8:52.50	Penn Relays	Apr 25, 2024
+41	Haskett, Austin	SR-4	Indiana	8:52.69	2024 Bryan Clay Invitational	Apr 11, 2024
+42	Pritchett, Tyler	JR-3	Michigan State	8:52.76	Virginia Challenge	Apr 19, 2024
+43	Palermo, Dominic	SR-4	Wagner	8:52.81	Penn Relays	Apr 25, 2024
+44	Hogston, Gunner	SR-4	Charlotte	8:52.91	2024 Charlotte Invitational	Apr 26, 2024
+45	John, Wesley	SR-4	Georgia	8:53.52	Outdoor Music City Challenge	Apr 26, 2024
+46	Bogdan, Matthew	SO-2	NC State	8:53.70	ACC Outdoor Championships	May 9, 2024
+47	Breiter, Grahm	JR-3	Davidson	8:53.74	Wake Forest Invitational	Apr 19, 2024
+48	Hudson, Bing	JR-3	Lipscomb	8:53.94	Outdoor Music City Challenge	Apr 26, 2024
+49	Watts, Jackson	JR-3	Kentucky	8:53.97	Stanford Invitational	Mar 29, 2024
+50	Higinbotham, John	JR-3	Georgia Tech	8:54.05	ACC Outdoor Championships	May 9, 2024
+51	Sarney, Kyle	JR-3	Northeastern	8:54.10	Penn Relays	Apr 25, 2024
+52	Garcia- Palencia, Pedro	SR-4	Eastern Kentucky	8:54.20	Rick Erdmann Twilight	Apr 27, 2024
+53	Countiss, Benjamin	JR-3	Navy	8:54.31	2024 Patriot League Outdoor Track and Field Championships	May 3, 2024
+54	Cahill, Will	JR-3	Tennessee	8:54.79	Wake Forest Invitational	Apr 19, 2024
+55	White, Gavin	JR-3	Columbia	8:54.81	Wake Forest Invitational	Apr 19, 2024
+56	Brady, Brett	SR-4	Tennessee	8:55.26	Wake Forest Invitational	Apr 19, 2024
+57	Tarosky, Jake	SR-4	High Point	8:56.85	Wake Forest Invitational	Apr 19, 2024
+58	Cawley, Kevin	SR-4	Connecticut	8:57.83	Raleigh Relays	Mar 28, 2024
+59	Walsh, Liam	SR-4	Memphis	8:58.21	Wash U Distance Carnival	Mar 29, 2024
+60	Shuman, Sam	JR-3	Tennessee-Martin	8:58.28	Outdoor Music City Challenge	Apr 26, 2024
+61	Brill, Zach	SO-2	Belmont	8:58.57	Outdoor Music City Challenge	Apr 26, 2024
+62	Chapman, Brody	FR-1	Tennessee	8:58.72 @	APP State Open	Apr 26, 2024
+63	Franjieh, Julian	FR-1	Syracuse	8:58.75	ACC Outdoor Championships	May 9, 2024
+64	Ruth, Silas	SO-2	Penn	8:59.53	Penn Relays	Apr 25, 2024
+65	El Khattabi, Ilias	FR-1	North Florida	8:59.60	East Coast Relays	Apr 26, 2024
+66	O'Brien, Gavin	SO-2	North Florida	8:59.61	East Coast Relays	Apr 26, 2024
+67	Reimann, Joseph	SR-4	Navy	8:59.67	Penn Relays	Apr 25, 2024
+68	Gallagher, Quinn	SR-4	Notre Dame	8:59.83	ACC Outdoor Championships	May 9, 2024
+69	Hurst, Hudson	JR-3	Alabama	9:00.10	SEC Outdoor Track & Field Championships	May 9, 2024
+70	Spamer, Jack	SR-4	Michigan	9:00.11	Wake Forest Invitational	Apr 19, 2024
+71	Perry, Cole	SO-2	North Florida	9:00.51	East Coast Relays	Apr 26, 2024
+72	Wiley, Luke	FR-1	North Carolina	9:00.98	2024 Charlotte Invitational	Apr 26, 2024
+73	Stoots, Myles	SR-4	East Tenn. St.	9:01.10	Wake Forest Invitational	Apr 19, 2024
+74	Tostenson, Jantz	SR-4	Georgetown	9:01.42	Virginia Challenge	Apr 19, 2024
+75	Mason, Matt	SR-4	Boston University	9:01.97	2024 Patriot League Outdoor Track and Field Championships	May 3, 2024
+76	Moultrie, Samuel	SR-4	Navy	9:02.04	Virginia Challenge	Apr 19, 2024
+77	Autry, Tristan	JR-3	Georgia Tech	9:02.10	ACC Outdoor Championships	May 9, 2024
+78	Boler, Brian	FR-1	Princeton	9:02.32	West Point Twilight 2024	May 9, 2024
+79	Saunders, Ronnie	SR-4	Marshall	9:02.41	Virginia Challenge	Apr 19, 2024
+80	Cionelo, Nehemiah	SR-4	Coastal Carolina	9:03.04	East Coast Relays	Apr 26, 2024
+81	Cannon, Austen	JR-3	Miami (Fla.)	9:03.22	East Coast Relays	Apr 26, 2024
+82	Pietrzak, Logan	SR-4	Indiana State	9:03.70	Gary Wieneke Memorial	Apr 13, 2024
+83	Dolan, Marty	SR-4	Binghamton	9:03.81	West Point Twilight 2024	May 9, 2024
+84	Mullen, Patrick	SR-4	Northeastern	9:04.05	Jay Carisella Coaches Invitational	Apr 27, 2024
+85	Livingston, Connor	JR-3	Princeton	9:04.20	Ivy League Heptagonal Outdoor Track & Field Championships	May 4, 2024
+86	Lepore, Christopher	SR-4	Connecticut	9:04.40	Penn Relays	Apr 25, 2024
+87	Hilmer, Daniel	SO-2	Bucknell	9:04.81	2024 Patriot League Outdoor Track and Field Championships	May 3, 2024
+88	Norberg, Michael	JR-3	UMass Amherst	9:05.53	Atlantic 10 Outdoor Track & Field Championships	May 4, 2024
+89	Bell, Kiefer	SO-2	Purdue	9:05.71	Tom Jones Memorial Invitational	Apr 12, 2024
 90	Anderson, Tommy	SR-4	Siena	9:06.06	Virginia Challenge	Apr 19, 2024
 91	Ireland, Jacob	SR-4	Columbia	9:06.10	Sam Howell Invitational	Mar 30, 2024
 92	Doran, Colin	FR-1	Virginia Tech	9:06.20	The Hill City Twilight	May 3, 2024
 93	Fodor, Thomas	SR-4	Navy	9:06.42	Penn Relays	Apr 25, 2024
 94	Walker, Nathan	JR-3	Purdue	9:06.43	Tom Jones Memorial Invitational	Apr 12, 2024
-95	Malek, Jan	SO-2	UNC-Asheville	9:06.49	Georgia Tech Invitational	Apr 19, 2024
+95	Malek, Jan	SO-2	UNC-Asheville	9:06.49	Georgia Tech Invitational

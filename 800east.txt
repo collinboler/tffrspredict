@@ -16,12 +16,13 @@ Carico-McLennan, Zephaniah
 Austin, Sam
 Witt, Harrison
 Martin, Gary
-Cuthbertson, William
 Cohen, Shane
+Cuthbertson, William
 Ishii, Yukichi
 Ayhan, Kerem
 Colchico, Nico
 Angiono, Gabriele
+Leath, Alex
 Dropik, Marcus
 O'Toole, Justin
 Davis, Leo
@@ -53,6 +54,7 @@ Payamps, Matthew
 Watcke, Dan
 Sharif, Mahamed
 Burr, Mitchell
+Kweyei, Brian
 McFarland, Trent
 Rizzo, Matthew
 Chiku, Kelvin
@@ -61,12 +63,12 @@ Diebold, Peter
 Justus, Alex
 Swanson, Mats
 Nelson, Gavin
-Kweyei, Brian
 Murphy, Conor
 Travis, Isiah
 Cirrito, Thomas
 Cherry, Reed
 Kosgei, Joshua
+Jackson, Christian
 Wiles, Kian
 Kadri, Ahmed
 Khchina, Jaouad
@@ -91,5 +93,3 @@ Hackett, Damian
 Ochs, Collin
 Bambals, Oskars
 Allwein, Gianni
-Dagane, Zubeir
-Law, Camden
