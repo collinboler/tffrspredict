@@ -19,11 +19,12 @@ public class Tffrs {
            if (Objects.equals(player.bestEventName(), eventName)){
                playerQueue.add(player);
            }
+
         }
-
          return playerQueue.stream().toArray(Player[]::new);
-
     }
+
+
     public static Player playerFill(String input, boolean five) {
         String[] fifteen = readFile("1500east.txt");
         String[] eight = readFile("800east.txt");
@@ -38,9 +39,6 @@ public class Tffrs {
         List list5000 = new List(fivek, "5000");
         List list400 = new List(four, "400");
         List list10000 = new List(ten, "10000");
-
-
-
 
 
         Player player = new Player(input);

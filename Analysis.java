@@ -25,9 +25,26 @@ public class Analysis {
             }
         }
 
-        Player[] playerArray = playerQueue.stream().toArray(Player[]::new);
+        return playerQueue.stream().toArray(Player[]::new);
 
-        return playerArray;
+    }
+
+    public static Player[] scratched(String[] players, String eventName) {
+        boolean five = false;
+        if (Objects.equals(eventName, "5000")) {
+            five = true;
+        }
+
+        Queue<Player> scratchQueue = new LinkedList<Player>();
+        for (int i = 0; i < players.length; i++) {
+            Player player = Tffrs.playerFill(players[i], five);
+            if (!Objects.equals(player.bestEventName(), eventName)){
+                scratchQueue.add(player);
+            }
+        }
+
+        return scratchQueue.stream().toArray(Player[]::new);
+
     }
 
     public static void main(String[] args) {
@@ -36,15 +53,22 @@ public class Analysis {
 
         String[] event = ReadFile.readFile(input + "east.txt");
         Player[] list = playerRead2(event, input);
+        Player[] scratch = scratched(event, input);
 
-        System.out.println(input + " Analysis:");
+        System.out.println(input + " Predicted Qualifiers:");
         for (int i = 0; i < list.length; i++) {
             Player player = list[i];
             System.out.println(i + 1 + " " + player.name + " " +
-                    "(#" + player.bestRank() + ")" +
-                    " --> " + player.eventNum + " event(s)");
+                    "(#" + player.bestRank() + ")" );
         }
 
+        System.out.println();
+        System.out.println(input + " Predicted Scratches:");
+        for (int i = 0; i < scratch.length; i++) {
+            Player player = scratch[i];
+            System.out.println(i + 1 + " " + player.name + " " +
+                       player.bestEventName() + "(" +  player.bestRank() + ")" );
+        }
 
     }
 }
