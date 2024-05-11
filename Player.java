@@ -6,9 +6,8 @@ public class Player {
 
     public Player(String name) {
         this.name = name;
-
-
    }
+
    public void all(List[] lists) {
         for (int i = 0; i < lists.length; i++) {
             List list = lists[i];
@@ -18,6 +17,10 @@ public class Player {
    }
    public String bestEventName() {
        return bestEvent.event;
+   }
+
+   public int numEvents() {
+        return eventNum;
    }
 
    public int bestRank() {
@@ -30,11 +33,12 @@ public class Player {
             if (eventNum == 0)  {
                 bestEvent = event;
                 eventNum++;
+                return;
             }
             if (event.rank < bestEvent.rank)  {
                 bestEvent = event;
-                eventNum++;
             }
+            eventNum++;
         }
 
    }

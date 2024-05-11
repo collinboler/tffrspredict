@@ -21,6 +21,9 @@ public class Event {
         }
 
     }
+    public String name() {
+        return this.event;
+    }
 
 
     public static void main(String[] args) {

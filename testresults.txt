@@ -1,0 +1,7 @@
+----2023:----
+event | tffrs predict | actual
+800      Harris       | Harris  (perfect)
+1500      Becker      | Gabay   (+1 place)
+steeple    Ireland    |  Ireland (perfect)
+5000       McMahon       Gough   (+7)
+
