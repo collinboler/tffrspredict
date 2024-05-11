@@ -28,7 +28,7 @@ public class Tffrs {
     public static Player playerFill(String input, boolean five) {
         String[] fifteen = readFile("1500east.txt");
         String[] eight = readFile("800east.txt");
-        String[] steeple = readFile("steepleeast.txt");
+        String[] steeple = readFile("3000seast.txt");
         String[] fivek = readFile("5000east.txt");
         String[] four = readFile("400east.txt");
         String[] ten = readFile("10000east.txt");

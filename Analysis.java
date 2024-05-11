@@ -56,7 +56,7 @@ public class Analysis {
 
         // Prompt the user for the type of input they want to process
         System.out.println();
-        System.out.println("This program considers the 400, 800, 1500, 5000, 10000, and the steeple");
+        System.out.println("This program considers the 400, 400h, 800, 1500, 5000, 10000, and the 3000s");
         System.out.println("Which event would you like to predict?");
         System.out.println();
         String input = scanner.nextLine();

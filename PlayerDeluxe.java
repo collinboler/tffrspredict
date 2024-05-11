@@ -32,7 +32,7 @@ public class PlayerDeluxe {
 
         String[] fifteen = readFile("1500east.txt");
         String[] eight = readFile("800east.txt");
-        String[] steeple = readFile("steepleeast.txt");
+        String[] steeple = readFile("3000seast.txt");
 
 
         List list1 = new List(fifteen, "1500");
