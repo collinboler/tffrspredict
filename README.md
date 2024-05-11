@@ -1,4 +1,4 @@
-H#ow to use:
+# How to use:
 
 # Refreshing an event leaderboard:
 - copy and paste tffrs leaderboard of specific event into raw.txt
