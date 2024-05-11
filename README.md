@@ -13,6 +13,12 @@ H#ow to use:
 - When analyzing 5k, program ignores 10k entries. (to improve accuracy)
 - Will develop a better 5K 10K algorithm through more analyisis
 
+# Analysis
+performs the same as Tffrs but outputs the list of predicted scratches for each event alongside the predicted qualifying list.
+
+Run it by adding the event you want to the command line argument:
+Ex: java Analysis 5000
+
 More updates coming soon
 
 # 2023 Prediction Accuracy
