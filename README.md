@@ -1,3 +1,5 @@
+# **No more guessing Tffrs cut off times**
+
 # How to use:
 
 # Refreshing an event leaderboard:
