@@ -1,4 +1,4 @@
-# **No more guessing Tffrs cut off times**
+# **No more guessing Tfrrs cut off times**
 
 # How to use:
 
