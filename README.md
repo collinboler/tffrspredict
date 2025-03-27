@@ -3,7 +3,7 @@
 # How to use:
 
 # Refreshing an event leaderboard:
-- copy and paste tffrs leaderboard of specific event into raw.txt
+- copy and paste tfrrs leaderboard of specific event into raw.txt
 - run Refresh.java and enter specific event when prompted
 
 # Running Predictions:
@@ -17,7 +17,7 @@
 - Will develop a better 5K 10K algorithm through more analysis
 
 # Analysis
-performs the same as Tffrs but outputs the list of predicted scratches for each event alongside the predicted qualifying list.
+performs the same as tfrrs but outputs the list of predicted scratches for each event alongside the predicted qualifying list.
 
 Run it by adding the event you want to the command line argument:
 Ex: java Analysis 5000
